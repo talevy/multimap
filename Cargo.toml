@@ -1,0 +1,11 @@
+[package]
+
+name = "multimap"
+version = "0.0.1"
+readme = "README.md"
+authors = [ "Tal Levy <jubboy333@gmail.com>" ]
+tags = ["data-structures"]
+
+[[lib]]
+
+name = "lib"
